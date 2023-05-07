@@ -1,1 +1,1 @@
-# Bank Marketing Project with Docker
+# Bank App project with Docker
